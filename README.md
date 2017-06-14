@@ -1,6 +1,6 @@
 # Shun Yellow Cab
 
-Simple HTML5 game, avoid yellow cabs and you are next * [SEBASTIAN VETTEL](http://www.sebastianvettel.de/index.php/en/)
+Simple HTML5 game, avoid yellow cabs and you are next [SEBASTIAN VETTEL](http://www.sebastianvettel.de/index.php/en/)
 
 ## Built With
 
